@@ -1,0 +1,6 @@
+name: "dd-cws"
+version: "0.1.0"
+description: |-
+  Datadog Cloud Workload Security Plugin
+ignoreFlags: false
+command: "$HELM_PLUGIN_DIR/cws.sh"
